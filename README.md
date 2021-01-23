@@ -18,11 +18,11 @@ an alternative to WAD based on 7z that allows for installing multipule channels 
 - Step 6: paste the dumped files in to the folder you have created
 - (if you want to add more Channels/IOS's repeat steps 2-6 till you have got all the content you want added)
 - Step 7:create a .7z archive with the wiipkg folder **in** it using the following config:
-- Format: 7z
-- Compression level: normal
-- Compression method: LZMA2
-- Dictonary Size: 16 MB
-- Word size:32
+-- Format: 7z
+-- Compression level: normal
+-- Compression method: LZMA2
+-- Dictonary Size: 16 MB
+-- Word size:32
 - Solid Block Size: 4 GB
 
 - Step 8:change the file extension to .wiipkg and make the name whatever you want
