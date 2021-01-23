@@ -17,13 +17,8 @@ an alternative to WAD based on 7z that allows for installing multipule channels 
 - Step 5b(For IOS's):Find the number of the IOS your trying to convert and create a new folder in wiipkg/ios with the IOS number
 - Step 6: paste the dumped files in to the folder you have created
 - (if you want to add more Channels/IOS's repeat steps 2-6 till you have got all the content you want added)
-- Step 7:create a .7z archive with the wiipkg folder **in** it using the following config:
-Format: 7z
-Compression level: normal
-Compression method: LZMA2
-Dictonary Size: 16 MB
-Word size:32
-Solid Block Size: 4 GB
+- Step 7:create a .7z archive with the wiipkg folder **in** it using the config from configinfo at the root of this github
+
 
 - Step 8:change the file extension to .wiipkg and make the name whatever you want
 # Congrats Your Done, enjoy your file
