@@ -4,7 +4,7 @@ an alternative to WAD based on 7z&LZMA that allows for installing multipule chan
 
 
 # How to make a .wiipkg file
-(We suggest using 7z for this)
+(We suggest using 7zip for this)
 
 - Download the repo as a zip file 
 - Step 1: extract the wiipkg folder (we will use this as a template)
