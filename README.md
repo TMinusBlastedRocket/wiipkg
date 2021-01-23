@@ -1,5 +1,5 @@
 # wiipkg
-an alternative to WAD based on 7z&LZMA that allows for installing multipule channels and/or IOS's at once and better compression for archival
+an alternative to WAD based on 7z&LZMA that allows for installing multipule channels and/or IOS's at once and better compression for archival along with extracting files to the SD Card
 
 
 
