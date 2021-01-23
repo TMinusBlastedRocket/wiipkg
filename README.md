@@ -22,4 +22,4 @@ an alternative to WAD based on 7z&LZMA that allows for installing multipule chan
 
 
 - Step 9:change the file extension to .wiipkg and make the name whatever you want
-# Congrats Your Done, enjoy your file
+# You are done, enjoy your file
