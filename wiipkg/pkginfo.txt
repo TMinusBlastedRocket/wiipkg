@@ -1,2 +1,2 @@
 #WiiPKG information file
-wiipkgver=1
+wiipkgver=1.1
