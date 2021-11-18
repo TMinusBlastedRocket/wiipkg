@@ -1,9 +1,9 @@
 # wiipkg
-an alternative to WAD based on 7z&LZMA that allows for installing multipule channels and/or IOS's at once and better compression for archival along with extracting files to the SD Card
+an alternative to WAD based on 7z&LZMA that allows for installing multipule channels (and/or all/some region versions of the same channel) and/or IOS's at once and better compression for archival *compared to WAD along with extracting files to the SD Card
 
 
 
-# How to make a .wiipkg file
+# How to convert a .wad file to .wiipkg file
 (We suggest using 7zip for this)
 
 - Download the repo as a zip file 
@@ -22,4 +22,4 @@ an alternative to WAD based on 7z&LZMA that allows for installing multipule chan
 
 
 - Step 9:change the file extension to .wiipkg and make the name whatever you want
-# You are done, enjoy your file
+# You are done, enjoy your file (too bad no tools exist currently to make use of it lol)
